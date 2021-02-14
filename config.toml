@@ -1,0 +1,12 @@
+baseURL = "/"
+languageCode = "en-us"
+themesDir = "themes"
+theme = "book"
+title = "ControlsFX"
+
+[params]
+  BookToC =  false
+  BookSection = '/'
+  ControlsFXVersion = '11.0.3'
+  ControlsFXModule = 'org.controlsfx.controls'
+  JavadocURL = 'https://controlsfx.github.io/javadoc'
