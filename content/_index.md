@@ -3,7 +3,7 @@ title: ControlsFX
 type: docs
 ---
 
-# ControlsFX
+![ControlsFX](/images/ControlsFX.png)
 
 [ControlsFX](https://www.github.com/controlsfx/controlsfx) is a library of UI controls and useful API for JavaFX 8.0 and beyond.
 
